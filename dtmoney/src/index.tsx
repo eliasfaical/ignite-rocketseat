@@ -21,10 +21,10 @@ createServer({
         },
         {
           id: 2,
-          title: 'Manutenção de website',
+          title: 'Apartamento',
           type: 'withdraw',
           category: 'Aluguel',
-          amount: 1000,
+          amount: 100,
           createdAt: new Date('2021-02-25 09:00:00')
         }
       ],
